@@ -4,12 +4,14 @@
 import sys
 
 def getTotalX(a, b):
-    count=temp=0
+    count = temp = 0                   # 'temp' variable stores whether a number is divisible or not
+                                       # if temp == 0  --> Number is Divisible
+                                       # if temp == 1  --> Number is not Divisible
     
-    for k in range(1,max(b)+1):
-        temp=0
-        for i in a:
-            if (k%i!=0):
+    for k in range( 1 , max(b)+1 ):    # This will create Range from --> [ 1, max(b) ] where "[]" represents inclusive.
+        temp=0                         # Initially we assume that a number is Divisible.
+        for i in a:                    # Using (variable) in (list) :  --> variable points on element stored in list.
+            if ( k % i != 0 ):         
                 temp=1
                 break
         for j in b:
