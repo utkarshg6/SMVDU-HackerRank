@@ -1,1 +1,0 @@
-#Q05 - Diagonal Difference  ||  Warmup

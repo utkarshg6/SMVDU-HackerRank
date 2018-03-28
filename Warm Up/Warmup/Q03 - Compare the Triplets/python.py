@@ -1,1 +1,0 @@
-#Q03 - Compare the Triplets  ||  Warmup
