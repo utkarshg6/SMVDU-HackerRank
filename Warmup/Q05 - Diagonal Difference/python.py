@@ -1,1 +1,22 @@
-#Q05 - Diagonal Difference  ||  Warmup
+#Q5 - Diagonal Difference  ||  Warmup
+#!/bin/python
+
+import sys
+
+
+n = int(raw_input().strip())				# n is the order of the matrix
+r=0							# setting the sum of right diagonal elements to 0
+l=0							# setting the sum of left diagonal elements to 0
+a = []
+for a_i in xrange(n):					# input matrix
+    a_temp = map(int,raw_input().strip().split(' '))
+    a.append(a_temp)
+for i in range(n):					# iterating by index in the matrix
+    for j in range(n):
+        if i ==j:					# for right diagonal 
+            r+=a[i][j]
+        if i+j==(n-1):					# for lest diagonal
+            l+=a[i][j]
+d=r-l							# difference of the sums			
+print abs(d)
+        
