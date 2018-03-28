@@ -1,4 +1,4 @@
-# Q1 - Grading Students  ||  Implementation
+# Q01 - Grading Students  ||  Implementation
 #!/bin/python3
 
 import sys
