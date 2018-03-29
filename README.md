@@ -57,16 +57,16 @@ See [Running the Notebook](http://jupyter.readthedocs.io/en/latest/running.html#
 
 | **Number** | **Question** | **C** | **Python** | **Notebook** | **Directory**
 |:-------|:----------------------------------|:------------------------------|:--------------------------------|:-----|:---------|
-| 1      | Solve Me First                    |                               |                                 |      |          |
+| 1      | Solve Me First                    |                               |                                 |      |        |
 | 2      | Simple Array Sum	                 |                               |                                 |      |          |
 | 3      | Compare the Triplets	             |                               |                                 |      |          |
 | 4      | A Very Big Sum	                   |                               |            Done                 |      |          |
-| 5      | Diagonal Difference	              |                               |                                 |      |          |
+| 5      | Diagonal Difference	             |                               |                                 |      |          |
 | 6      | Plus Minus	                       |                               |                                 |      |          |
 | 7      | Staircase                         |                               |                                 |      |          |
 | 8      | Mini-Max Sum                      |                               |                                 |      |          |
 | 9      | Birthday Cake Candles             |                               |                                 |      |          |
-| 10     | Time Conversion	                  |                               |                                 |      |          |
+| 10     | Time Conversion	                 |                               |                                 |      |          |
 
 
 ## Implementation
