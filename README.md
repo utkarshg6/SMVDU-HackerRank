@@ -29,7 +29,7 @@ To download the repository:
 
 ## Implementation
 
-| **Number** | **Question** | **C** | **Python** | **Notebook** | **Directory**
+| **Number** | **Question** | **C** | **Python** | **Notebook** | **Directory** |
 |:-------|:----------------------------------|:------------------------------|:--------------------------------|:-----|:---------|
 | 1      | Grading Students                  |Done|    |Done|    |
 | 2      | Apple and Orange                  |    |    |Done|    |
