@@ -2,6 +2,11 @@
 
 This repository includes solutions of all the problems of Warm up and Implementation subdomains under Algorithm section on HackerRank.
 
+### To Solve the Problems, visit
+  *[Warmup](https://www.hackerrank.com/domains/algorithms/warmup)*
+  
+  *[Implementation](https://www.hackerrank.com/domains/algorithms/implementation)*
+
 *Note- The solutions provided are not the only way to solve the problem. One can think of their own solution also.*
 
 ## Installation Guide
