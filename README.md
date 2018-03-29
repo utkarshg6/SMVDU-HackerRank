@@ -31,13 +31,13 @@ To download the repository:
 
 | **Number** | **Question** | **C** | **Python** | **Notebook** | **Directory**
 |:-------|:----------------------------------|:------------------------------|:--------------------------------|:-----|:---------|
-| 1      | Grading Students                  |           Done                |                                 | Done |          |
-| 2      | Apple and Orange                  |                               |                                 | Done |          |
-| 3      | Kangaroo                          |                               |                                 |      |          |
-| 4      | Between Two Sets                  |                               |            Done                 |      |          |
-| 5      | Breaking the Records              |                               |                                 |      |          |
-| 6      | Birthday Chocolate                |                               |                                 |      |          |
-| 7      | Divisible Sum Pairs               |                               |                                 |      |          |
-| 8      | Migratory Birds                   |                               |                                 |      |          |
-| 9      | Day of the Programmer             |                               |                                 |      |          |
-| 10     | Bon Appétit                       |                               |                                 |      |          |
+| 1      | Grading Students                  |Done|    |Done|    |
+| 2      | Apple and Orange                  |    |    |Done|    |
+| 3      | Kangaroo                          |    |    |    |    |
+| 4      | Between Two Sets                  |    |Done|    |    |
+| 5      | Breaking the Records              |    |    |    |    |
+| 6      | Birthday Chocolate                |    |    |    |    |    
+| 7      | Divisible Sum Pairs               |    |    |    |    |
+| 8      | Migratory Birds                   |    |    |    |    |
+| 9      | Day of the Programmer             |    |    |    |    |
+| 10     | Bon Appétit                       |    |    |    |    |
