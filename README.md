@@ -3,9 +3,9 @@
 This repository includes solutions of all the problems of Warm up and Implementation subdomains under Algorithm section on HackerRank.
 
 ### To Solve the Problems, visit
-  *[Warmup](https://www.hackerrank.com/domains/algorithms/warmup)*
+  [Warmup](https://www.hackerrank.com/domains/algorithms/warmup)
   
-  *[Implementation](https://www.hackerrank.com/domains/algorithms/implementation)*
+  [Implementation](https://www.hackerrank.com/domains/algorithms/implementation)
 
 *Note- The solutions provided are not the only way to solve the problem. One can think of their own solution also.*
 
@@ -13,7 +13,9 @@ This repository includes solutions of all the problems of Warm up and Implementa
 
 To download the repository:
 
-`git clone https://github.com/utkarshg6/SMVDU-HackerRank.git`
+```
+git clone https://github.com/utkarshg6/SMVDU-HackerRank.git
+```
 
 
 ## Warmup
@@ -24,12 +26,12 @@ To download the repository:
 | 2      | Simple Array Sum	                 |                               |                                 |      |          |
 | 3      | Compare the Triplets	             |                               |                                 |      |          |
 | 4      | A Very Big Sum	                   |                               |            Done                 |      |          |
-| 5      | Diagonal Difference	             |                               |                                 |      |          |
+| 5      | Diagonal Difference	              |                               |                                 |      |          |
 | 6      | Plus Minus	                       |                               |                                 |      |          |
 | 7      | Staircase                         |                               |                                 |      |          |
 | 8      | Mini-Max Sum                      |                               |                                 |      |          |
 | 9      | Birthday Cake Candles             |                               |                                 |      |          |
-| 10     | Time Conversion	                 |                               |                                 |      |          |
+| 10     | Time Conversion	                  |                               |                                 |      |          |
 
 
 ## Implementation
