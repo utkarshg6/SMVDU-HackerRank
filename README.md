@@ -51,6 +51,7 @@ Then install the Jupyter Notebook using:
 pip3 install jupyter
 ```
 (Use `pip` if using legacy Python 2.)
+
 See [Running the Notebook](http://jupyter.readthedocs.io/en/latest/running.html#running) for more details.
 
 ## Warmup
