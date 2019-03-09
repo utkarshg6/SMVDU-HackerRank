@@ -16,6 +16,6 @@ for i in range(n):					# iterating by index in the matrix
             r+=a[i][j]
         if i+j==(n-1):					# for lest diagonal
             l+=a[i][j]
-d=r-l							# difference of the sums			
+d=r-l							# difference of the sums is done			
 print abs(d)
         
